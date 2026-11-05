@@ -1,15 +1,20 @@
 # Mustache Enthusiast
 
-## Descripción
+**Mustache Enthusiast** es una plantilla web sobre bigotes,
+desarrollada con *HTML, CSS i JavaScript*.
 
-Sitio web dedicado al mundo de los bigotes. Incluye páginas de información, galería, blog y productos.
+## Archivos y uso
+- `index.html`: página principal
+- about.html: página de información
 
-## Contenido
+Para utilizarla:
+1. Descarga o clona el proyecto.
+2. Abre la página principal en el navegador.
 
-- **Inicio:** portada del sitio.
-- *Galería:* imágenes relacionadas con bigotes.
-- Productos: catálogo de artículos.
+Para clonarlo:
+```bash
+git clone https://github.com/danieltrujillosifontes-star/sistemassolvam.git
+```
 
-## Estado del proyecto
-
-Proyecto en desarrollo. ~~La web está terminada~~; todavía se pueden añadir mejoras.
+Plantilla: [Free Website Templates] (https://freewebsitestemplates.com/).
+Autoe: Daniel Trujillo 
